@@ -1,7 +1,7 @@
 library flip_card;
 
 import 'dart:async';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import 'flip_card_transition.dart';
 import 'flip_card_controller.dart';
